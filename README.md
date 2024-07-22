@@ -26,7 +26,8 @@ The project explores both traditional machine learning models and deep learning 
 
 Machine Learning Models:
 1.Logistic Regression
-2.K-Nearest Neighbors (KNN)
+2. K-Nearest Neighbors (KNN)
+3. Random Forest
 
 Model Training and Evaluation
 Splitting the dataset into training and testing sets.
